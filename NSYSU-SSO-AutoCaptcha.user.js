@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         NSYSU SSO AutoCapcha
+// @name         NSYSU SSO AutoCaptcha
 // @namespace    https://keybo.space/
 // @version      1.0
-// @description  Get rid of capcha!
+// @description  Get rid of captcha!
 // @author       Kix
 // @match        https://sso.nsysu.edu.tw/
 // @match        https://sso.nsysu.edu.tw/index.php/passport/login
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=www.nsysu.edu.tw
-// @supportURL   https://github.com/kix99aug/NSYSU-SSO-AutoCapcha
+// @supportURL   https://github.com/kix99aug/NSYSU-SSO-AutoCaptcha
 // @grant        none
 // ==/UserScript==
 
