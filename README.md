@@ -1,4 +1,4 @@
-# NSYSU-SSO-AutoCapcha
+# NSYSU-SSO-AutoCaptcha
 
 ## Requirement
 
