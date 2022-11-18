@@ -7,6 +7,7 @@
 // @match        https://sso.nsysu.edu.tw/
 // @match        https://sso.nsysu.edu.tw/index.php/passport/login
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=www.nsysu.edu.tw
+// @supportURL   https://github.com/kix99aug/NSYSU-SSO-AutoCapcha
 // @grant        none
 // ==/UserScript==
 
